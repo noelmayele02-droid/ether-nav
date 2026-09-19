@@ -1,4 +1,5 @@
 # ÉTHER//NAV
+Lien Streamlit : https://ether-nav.streamlit.app/
 
 Un vrai navigateur web dans Streamlit, stylé (néon, glitch, scanlines) et volontairement étrange.
 
